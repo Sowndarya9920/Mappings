@@ -1,5 +1,5 @@
 # Mappings
-##### :_square: Its a API Based Web Application
+##### :red_square: Its a API Based Web Application
 ## :one: Frameworks and Languages Used -
     1. SpringBoot
     2. JAVA
